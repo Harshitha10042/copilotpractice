@@ -59,3 +59,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def modulus(first, second):
+    return first % second
